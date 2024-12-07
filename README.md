@@ -23,9 +23,21 @@ https://solana.com/developers/guides/getstarted/how-to-create-a-token
 ## Step create token 2022
 ```
 spl-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb create-token --transfer-hook 2PLEb1rym2rWBMArTCpgYYuJuQVF3ViJZwjSBprbJyQd
+```
+
+```
 => Example: Mint address: 9pan9bMn5HatX4EJdBwg9VgCa7Uz5HL8N1m5D3NdXejP
+```
+
+```
 spl-token create-account 9pan9bMn5HatX4EJdBwg9VgCa7Uz5HL8N1m5D3NdXejP
+```
+
+```
 spl-token mint 9pan9bMn5HatX4EJdBwg9VgCa7Uz5HL8N1m5D3NdXejP 10000000000000
+```
+
+```
 spl-token accounts
 ```
 
