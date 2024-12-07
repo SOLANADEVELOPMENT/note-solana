@@ -133,3 +133,7 @@ spl-token mint 9fGqUm9ZRkHDS7TQ3ombfkro9Ay1gcSmAkUnHPadVuS4 20000000
 ```
 => Working on phantom wallet (transfer or view token)
 ```
+
+## Setting raydium devnet (Update RPC devnet)
+![image](https://github.com/user-attachments/assets/dc0cb48d-91e5-476a-9885-c9665ae86ac4)
+
