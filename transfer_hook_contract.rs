@@ -41,3 +41,6 @@ pub enum MyError {
     #[msg("Can not transfer")]
     AmountTooBig,
 }
+
+
+// Use this tool to deploy contract: https://beta.solpg.io/
