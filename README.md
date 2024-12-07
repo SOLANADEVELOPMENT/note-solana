@@ -8,7 +8,7 @@ TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb:  TOKEN_2022_PROGRAM_ID
 
 ```
 
-# Deploy transfer hook program (use this code and IDE to deploy and get TRANSFER_HOOK_PROGRAM_ID program id)
+## Deploy transfer hook program (use this code and IDE to deploy and get TRANSFER_HOOK_PROGRAM_ID program id)
 ```
 https://github.com/SOLANADEVELOPMENT/anchor-transfer-hook
 ```
