@@ -38,6 +38,6 @@ pub struct TransferHook {}
 
 #[error_code]
 pub enum MyError {
-    #[msg("The amount is too big")]
+    #[msg("Can not transfer")]
     AmountTooBig,
 }
