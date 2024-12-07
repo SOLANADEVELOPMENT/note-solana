@@ -11,8 +11,7 @@ TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb:  TOKEN_2022_PROGRAM_ID
 ## Import wallet localhost to phantom
 ```
 Copy private key from bosG8sKTkkHfsNomPHCYZJDZrbx7nHnY3xHRhskFNd4.json
-Import to phantom wallet
-![alt text](image.png)
+Import to phantom wallet (Using feature import private key)
 ``` 
 
 ## Create a new token
