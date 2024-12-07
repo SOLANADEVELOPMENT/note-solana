@@ -3,6 +3,10 @@
 ```
 spl-token create-token
 
+```
+
+```
+
 Creating token 9fGqUm9ZRkHDS7TQ3ombfkro9Ay1gcSmAkUnHPadVuS4 under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
 
 Address:  9fGqUm9ZRkHDS7TQ3ombfkro9Ay1gcSmAkUnHPadVuS4
